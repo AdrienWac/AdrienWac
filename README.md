@@ -70,21 +70,59 @@ The contributors are also active, versions and updates are realeased regularly.<
 
 <p>Here is a non-exhaustive list of tools that I use more or less daily: </p>
 
-<a href="https://jquery.com/" target="_blank">
-  <img src="https://img.shields.io/badge/jQuery-Framework-informational?style=flat&logo=jQuery&logoColor=white&labelColor=0769AD&color=373f51"/>
-</a>
+<p>
+  <a href="https://jquery.com/" target="_blank">
+    <img src="https://img.shields.io/badge/jQuery-Framework-informational?style=flat&logo=jQuery&logoColor=white&labelColor=0769AD&color=373f51"/>
+  </a>
 
-<a href="https://vuejs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Vue.js-Framework-informational?style=flat&logo=Vue.js&logoColor=white&labelColor=4FC08D&color=373f51"/>
-</a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Vue.js-Framework-informational?style=flat&logo=Vue.js&logoColor=white&labelColor=4FC08D&color=373f51"/>
+  </a>
 
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://img.shields.io/badge/TypeScript-Framework-informational?style=flat&logo=TypeScript&logoColor=white&labelColor=3178C6&color=373f51"/>
-</a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-Framework-informational?style=flat&logo=TypeScript&logoColor=white&labelColor=3178C6&color=373f51"/>
+  </a>
 
-<a href="https://getbootstrap.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Bootstrap-Framework-informational?style=flat&logo=Bootstrap&logoColor=white&labelColor=7952B3&color=373f51"/>
-</a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Bootstrap-Framework-informational?style=flat&logo=Bootstrap&logoColor=white&labelColor=7952B3&color=373f51"/>
+  </a>
+</p>
+
+<p>
+  
+  <a href="https://phpunit.de/" target="_blank">
+    <img src="https://img.shields.io/badge/PhpUnit-Testing-informational?style=flat&logo=PHP&logoColor=white&labelColor=777BB4&color=373f51"/>
+  </a>
+  
+  <a href="https://mochajs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Mocha-Testing-informational?style=flat&logo=Mocha&logoColor=white&labelColor=8D6748&color=373f51"/>
+  </a>
+  
+</p>
+
+<p>
+  
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Version control-informational?style=flat&logo=GitHub&logoColor=white&labelColor=181717&color=373f51"/>
+  </a>
+  
+  <a href="https://bitbucket.org/product/" target="_blank">
+    <img src="https://img.shields.io/badge/Bitbucket-Version control-informational?style=flat&logo=Bitbucket&logoColor=white&labelColor=0052CC&color=373f51"/>
+  </a>
+  
+</p>
+
+<p>
+  
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Npm-Package manager-informational?style=flat&logo=npm&logoColor=white&labelColor=CB3837&color=373f51"/>
+  </a>
+  
+  <a href="https://getcomposer.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Composer-Package manager-informational?style=flat&logo=Composer&logoColor=white&labelColor=885630&color=373f51"/>
+  </a>
+  
+</p>
 
 ## Github statistics
 
