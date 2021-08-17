@@ -1,10 +1,27 @@
 <img src="https://github.com/AdrienWac/AdrienWac/blob/main/baniere_github.png" width="100%"/>
+<a href="https://adrienlambert.fr" target="_blank">
+  <img src="https://img.shields.io/badge/Website-informational?style=flat&logo=SitePoint&logoColor=white&color=258AAF"/>
+</a>
+<a href="https://www.linkedin.com/in/adrien-lambert-a2988954/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=0A66C2"/>
+</a>
+<a href="https://twitter.com/AdrienLambert72" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-informational?style=flat&logo=Twitter&logoColor=white&color=1DA1F2"/>
+</a>
+<a href="https://www.codingame.com/profile/9f89eca23d9f464ff8100818b3232cbb178942" target="_blank">
+  <img src="https://img.shields.io/badge/Codingame-informational?style=flat&logo=CodinGame&logoColor=white&color=F2BB13"/>
+</a>
 
-### Hi there 👋
+## :hear_no_evil: About me
 
 <!-- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/> -->
-
 ![](https://img.shields.io/badge/PHP-PHP-informational?style=flat&logo=CakePHP&logoColor=white&color=2bbc8a)
+
+
+## :hammer_and_wrench: Tools & languages
+
+## :bar_chart: Github statistics
+
 
 <a href="https://github.com/AdrienWac/github-readme-stats">
   <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=AdrienWac&layout=compact&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=calm" />
