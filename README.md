@@ -12,49 +12,51 @@
   <img src="https://img.shields.io/badge/Codingame-informational?style=flat&logo=CodinGame&logoColor=white&color=F2BB13"/>
 </a>
 
-## :hear_no_evil: About me
+## About me
 
 <!-- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/> -->
 ![](https://img.shields.io/badge/PHP-PHP-informational?style=flat&logo=CakePHP&logoColor=white&color=2bbc8a)
 
 
-## :hammer_and_wrench: Tools & languages
 
-## :bar_chart: Github statistics
+## Tools & languages
+
+### Tools
+
+### Languages
+
+<p> During my studies and my first experience, i was able to learn different languages.</p>
+
+<p> PHP has been my main language throughout my first professionnal experience. It's easy to learn this language, he has a strong community and has a lot of good frameworks (CakePHP, Symfony, Laravel, ...). There are a lot of features that help in the daily writing of code.</p>
+
+<p> I would like to increase my knowledge of Javascript. Currently I only use this language to animate front-end rendering.</p>
+
+<a href="https://www.php.net/" target="_blank">
+  <img src="https://img.shields.io/badge/PHP-informational?style=flat&logo=PHP&logoColor=white&color=777BB4"/>
+</a>
+<a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank">
+  <img src="https://img.shields.io/badge/CSS-informational?style=flat&logo=CSS Wizardry&logoColor=white&color=F43059"/>
+</a>
+<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">
+  <img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E"/>
+</a>
+<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">
+  <img src="https://img.shields.io/badge/HTML-informational?style=flat&logo=HTML5&logoColor=white&color=E34F26"/>
+</a>
+
+<p>My goal is to be able to use the most appropriate language for the solution I want to developp. For that, the next language i want to learn is Python. </p>
+
+<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">
+  <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB"/>
+</a>
+
+## Github statistics
 
 
 <a href="https://github.com/AdrienWac/github-readme-stats">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=AdrienWac&layout=compact&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=calm" />
+  <img height="110em" align="center" src="https://github-readme-stats.vercel.app/api?username=AdrienWac&layout=compact&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=calm" />
 </a>
 <a href="https://github.com/AdrienWac/github-readme-stats">
-  <img  height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrienWac&layout=compact&theme=calm&hide_border=true" />
+  <img  height="110em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrienWac&layout=compact&theme=calm&hide_border=true" />
 </a>
 
-<!-- Actual text -->
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
-
-<!--
-**AdrienWac/AdrienWac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
