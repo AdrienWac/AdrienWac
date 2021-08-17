@@ -21,8 +21,6 @@
 
 ## Tools & languages
 
-### Tools
-
 ### Languages
 
 <p> During my studies and my first experience, i was able to learn different languages.</p>
@@ -43,6 +41,9 @@
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">
   <img src="https://img.shields.io/badge/HTML-informational?style=flat&logo=HTML5&logoColor=white&color=E34F26"/>
 </a>
+<a href="https://fr.wikipedia.org/wiki/Structured_Query_Language" target="_blank">
+  <img src="https://img.shields.io/badge/SQL-informational?style=flat&logo=MySQL&logoColor=white&color=4479A1"/>
+</a>
 
 <p>My goal is to be able to use the most appropriate language for the solution I want to developp. For that, the next language i want to learn is Python. </p>
 
@@ -50,13 +51,34 @@
   <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB"/>
 </a>
 
+### Tools
+
+<a href="https://cakephp.org/" target="_blank">
+  <img src="https://img.shields.io/badge/CakePHP-PHP-informational?style=flat&logo=CakePHP&logoColor=white&labelColor=D33C43&color=373f51"/>
+</a>
+
+<p>The framework i used the most these last years is CakePHP (v2 and v3). He use MVC pattern. </p>
+<p>It's very quick to learn, the technical documentation is complete, and the community is active. The slack group have ~4000 members, and 
+it's easy to found help on the support channel. 
+The contributors are also active, versions and updates are realeased regularly.</p>
+
+<a href="https://cakephp.org/" target="_blank">
+  <img src="https://img.shields.io/badge/MySQL-SQL-informational?style=flat&logo=MySQL&logoColor=white&labelColor=4479A1&color=373f51"/>
+</a>
+
+<p>For the database relation and coupled with to CakePhp, the framework I used the most is MySQL.</p>
+
+<p>Here is a non-exhaustive list of tools that I use more or less daily: </p>
+
+
+
 ## Github statistics
 
 
 <a href="https://github.com/AdrienWac/github-readme-stats">
-  <img height="110em" align="center" src="https://github-readme-stats.vercel.app/api?username=AdrienWac&layout=compact&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=calm" />
+  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=AdrienWac&layout=compact&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=calm" />
 </a>
 <a href="https://github.com/AdrienWac/github-readme-stats">
-  <img  height="110em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrienWac&layout=compact&theme=calm&hide_border=true" />
+  <img  height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrienWac&layout=compact&theme=calm&hide_border=true" />
 </a>
 
