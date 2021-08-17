@@ -24,10 +24,10 @@
 
 
 <a href="https://github.com/AdrienWac/github-readme-stats">
-  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=AdrienWac&layout=compact&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=calm" />
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=AdrienWac&layout=compact&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=calm" />
 </a>
 <a href="https://github.com/AdrienWac/github-readme-stats">
-  <img  height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrienWac&layout=compact&theme=calm&hide_border=true" />
+  <img  height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrienWac&layout=compact&theme=calm&hide_border=true" />
 </a>
 
 <!-- Actual text -->
