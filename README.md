@@ -34,13 +34,15 @@
 
 ### Tools
 
-<a href="https://cakephp.org/" target="_blank">
-  <img src="https://img.shields.io/badge/CakePHP-PHP-informational?style=flat&logo=CakePHP&logoColor=white&labelColor=D33C43&color=373f51"/>
-</a>
+<p>
+  <a href="https://cakephp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/CakePHP-PHP-informational?style=flat&logo=CakePHP&logoColor=white&labelColor=D33C43&color=373f51"/>
+  </a>
 
-<a href="https://cakephp.org/" target="_blank">
-  <img src="https://img.shields.io/badge/MySQL-SQL-informational?style=flat&logo=MySQL&logoColor=white&labelColor=4479A1&color=373f51"/>
-</a>
+  <a href="https://cakephp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-SQL-informational?style=flat&logo=MySQL&logoColor=white&labelColor=4479A1&color=373f51"/>
+  </a>
+</p>
 
 <p>
   <a href="https://jquery.com/" target="_blank">
